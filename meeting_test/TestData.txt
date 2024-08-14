@@ -1,0 +1,36 @@
+{
+  "companyID": 0,
+  "companyCode": "1101",
+  "companyName": "台泥",
+  "industry": "水泥工業",
+  "dataMonth": "11307",
+  "revenueCurrentMonth": 14429687,
+  "revenueLastMonth": 14429687,
+  "revenueSameMonthLastYear": 8953462,
+  "revenueChangeLastMonth": 5.63813,
+  "revenueChangeLastYear": 61.16321,
+  "cumulativeRevenueCurrentYear": 79261662,
+  "cumulativeRevenueLastYear": 62827438,
+  "cumulativeRevenueChange": 26.15772,
+  "remarks": "2024/3/6起併入OYAK及Cimpor，以致本月營收較去年同期增加54.7億元。",
+  "reportDate": "1130814"
+}
+
+
+{
+  "companyID": 0,
+  "companyCode": "1102",
+  "companyName": "亞泥",
+  "industry": "水泥工業",
+  "dataMonth": "11307",
+  "revenueCurrentMonth": 6722518,
+  "revenueLastMonth": 6838497,
+  "revenueSameMonthLastYear": 6790125,
+  "revenueChangeLastMonth": -1.69597,
+  "revenueChangeLastYear": -0.99566,
+  "cumulativeRevenueCurrentYear": 42207123,
+  "cumulativeRevenueLastYear": 47077345,
+  "cumulativeRevenueChange": -10.34515,
+  "remarks": "-",
+  "reportDate": "1130814"
+}
